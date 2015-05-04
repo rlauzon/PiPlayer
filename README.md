@@ -1,7 +1,11 @@
 # PiPlayer
-Web front end for a Raspberry Pi music player
+Raspberry Pi music player
 
 Currently in beta test in my home.
+
+I have 2 players right now:
+1. The main one in the living room which has the Pertelian and Powermate connected to it - and a web interface.
+2. The bed room one which has only the web interface.  I use my tablet (which I keep on my nightstand) to control it.
 
 Hardware
 CanaKit from Amazon
